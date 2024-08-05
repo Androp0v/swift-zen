@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/raul/Developer/swift-zen/.build/arm64-apple-macosx/debug/SwiftZen.build/master.swiftdeps"
+  },
+  "/Users/raul/Developer/swift-zen/Sources/SwiftZen/EmptyFile.swift": {
+    "dependencies": "/Users/raul/Developer/swift-zen/.build/arm64-apple-macosx/debug/SwiftZen.build/EmptyFile.d",
+    "object": "/Users/raul/Developer/swift-zen/.build/arm64-apple-macosx/debug/SwiftZen.build/EmptyFile.swift.o",
+    "swiftmodule": "/Users/raul/Developer/swift-zen/.build/arm64-apple-macosx/debug/SwiftZen.build/EmptyFile~partial.swiftmodule",
+    "swift-dependencies": "/Users/raul/Developer/swift-zen/.build/arm64-apple-macosx/debug/SwiftZen.build/EmptyFile.swiftdeps"
+  }
+}

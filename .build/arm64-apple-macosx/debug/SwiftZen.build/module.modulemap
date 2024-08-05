@@ -1,0 +1,4 @@
+module SwiftZen {
+    header "/Users/raul/Developer/swift-zen/.build/arm64-apple-macosx/debug/SwiftZen.build/SwiftZen-Swift.h"
+    requires objc
+}
