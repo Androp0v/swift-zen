@@ -1,1 +1,1 @@
-{"interfaceLanguages":{"swift":[{"path":"\/documentation\/swiftzen","title":"SwiftZen","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":1}}
+{"interfaceLanguages":{"swift":[{"children":[{"title":"Articles","type":"groupMarker"},{"path":"\/documentation\/swiftzen\/article-2","title":"Article 2","type":"article"},{"path":"\/documentation\/swiftzen\/article-1","title":"Article 1","type":"article"}],"path":"\/documentation\/swiftzen","title":"SwiftZen","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":1}}
