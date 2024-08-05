@@ -11,8 +11,8 @@
     }
   },
   "generatedSourceTargetSet" : [
-    "Swift_DocC_Preview",
-    "Swift_DocC"
+    "Swift_DocC",
+    "Swift_DocC_Preview"
   ],
   "pluginDescriptions" : [
     {
